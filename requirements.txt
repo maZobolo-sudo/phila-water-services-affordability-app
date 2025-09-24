@@ -1,0 +1,9 @@
+streamlit>=1.37
+pandas
+numpy
+matplotlib
+python-pptx
+reportlab
+streamlit-authenticator>=0.4
+pydantic>=2.0
+python-dotenv
